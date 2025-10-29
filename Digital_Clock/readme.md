@@ -42,7 +42,7 @@ The design is modular and easy to understand, ideal for **beginners learning Ver
         |--------------------------------------|
         |                                      |
         |   +--------------------------+       |
- clk --->|-->|      Clock Divider      |--> clk_1Hz
+     clk >|-->|      Clock Divider      |--> clk_1Hz
         |   +--------------------------+       |
         |                |                     |
         |   +--------------------------+       |
@@ -146,5 +146,6 @@ Government SKSJTI, Bangalore
 
 For **educational and learning purposes only**.  
 Freely modifiable and redistributable with credit.
+
 
 
