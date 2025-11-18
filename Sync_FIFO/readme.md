@@ -8,6 +8,7 @@ Designed and tested on the **Basys3 Artix-7 FPGA board**, the project demonstrat
 ## 📂 Repository Contents
 
 FIFO-FPGA/
+
 ├── FIFO.v # Parameterized FIFO RTL design
 
 ├── clock_divider.v # 100 MHz -> 1 Hz clock division logic
@@ -154,4 +155,5 @@ You can extend this design by adding:
 ## 👨‍💻 Author
 **Gangadhar**  
 FPGA & RTL Design | STA | CDC | Verilog Enthusiast
+
 
