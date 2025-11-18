@@ -23,12 +23,16 @@ FIFO depth = `2^ADDR_WIDTH`.
 ## 📁 Repository Structure
 
 /Async-FIFO-FPGA/
-│
-├── async_fifo.v # FIFO RTL design
-├── clock_divider.v # Clock divider for write/read domains
-├── top_async_fifo_fpga.v # FPGA top module
-├── constraints.xdc # Pin mapping for FPGA board
-└── README.md # Documentation
+
+├── async_fifo.v           # FIFO RTL design
+
+├── clock_divider.v        # Clock divider for write/read domains
+
+├── top_async_fifo_fpga.v  # FPGA top module
+
+├── constraints.xdc        # Pin mapping for FPGA board
+
+└── README.md              # Documentation
 
 
 ---
@@ -113,3 +117,4 @@ Electronics & Communication Engineer
 RTL • Digital Design • Verilog • FPGA
 
 ---
+
